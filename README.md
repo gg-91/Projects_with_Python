@@ -1,2 +1,2 @@
 # Data_Analysis_with_Python
-This repository is to share some data analysis projects done using Python. All project files are jupyter notebooks.
+This repository has data analysis projects completed with Python. All project files are single jupyter notebooks(unless noted otherwise).
