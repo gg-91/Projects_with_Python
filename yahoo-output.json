@@ -1,0 +1,41 @@
+{"Symbol":"^GSPC","Name":"S&P 500","Price":"5,916.98","Change":"+23.36","Change%":"+0.40%","Volume":"2.674B"}
+{"Symbol":"^DJI","Name":"Dow Jones Industrial Average","Price":"43,268.94","Change":"-120.66","Change%":"-0.28%","Volume":"497.97M"}
+{"Symbol":"^IXIC","Name":"NASDAQ Composite","Price":"18,987.47","Change":"+195.66","Change%":"+1.04%","Volume":"6.792B"}
+{"Symbol":"^NYA","Name":"NYSE COMPOSITE (DJ)","Price":"19,718.25","Change":"-0.17","Change%":"-0.00%","Volume":"0"}
+{"Symbol":"^XAX","Name":"NYSE AMEX COMPOSITE INDEX","Price":"5,306.75","Change":"+45.91","Change%":"+0.87%","Volume":"0"}
+{"Symbol":"^BUK100P","Name":"Cboe UK 100","Price":"814.55","Change":"-0.05","Change%":"-0.01%","Volume":"0"}
+{"Symbol":"^RUT","Name":"Russell 2000","Price":"2,324.83","Change":"+18.49","Change%":"+0.80%","Volume":"0"}
+{"Symbol":"^VIX","Name":"CBOE Volatility Index","Price":"16.35","Change":"+0.77","Change%":"+4.94%","Volume":"0"}
+{"Symbol":"^FTSE","Name":"FTSE 100","Price":"8,099.02","Change":"-10.30","Change%":"-0.13%","Volume":"0"}
+{"Symbol":"^GDAXI","Name":"DAX P","Price":"19,060.31","Change":"-128.88","Change%":"-0.67%","Volume":"0"}
+{"Symbol":"^FCHI","Name":"CAC 40","Price":"7,229.64","Change":"-48.59","Change%":"-0.67%","Volume":"0"}
+{"Symbol":"^STOXX50E","Name":"EURO STOXX 50 I","Price":"4,751.23","Change":"-39.10","Change%":"-0.82%","Volume":"0"}
+{"Symbol":"^N100","Name":"Euronext 100 Index","Price":"1,430.32","Change":"-7.85","Change%":"-0.55%","Volume":"0"}
+{"Symbol":"^BFX","Name":"BEL 20","Price":"4,116.40","Change":"-37.10","Change%":"-0.89%","Volume":"0"}
+{"Symbol":"MOEX.ME","Name":"Public Joint-Stock Company Moscow Exchange MICEX-RTS","Price":"85.20","Change":"-0.11","Change%":"-0.13%","Volume":"1.576M"}
+{"Symbol":"^HSI","Name":"HANG SENG INDEX","Price":"19,663.67","Change":"+87.06","Change%":"+0.44%","Volume":"0"}
+{"Symbol":"^STI","Name":"STI Index","Price":"3,757.97","Change":"+25.42","Change%":"+0.68%","Volume":"0"}
+{"Symbol":"^AXJO","Name":"S&P\/ASX 200","Price":"8,360.00","Change":"-14.00","Change%":"-0.17%","Volume":"0"}
+{"Symbol":"^AORD","Name":"ALL ORDINARIES","Price":"8,613.00","Change":"-16.20","Change%":"-0.19%","Volume":"0"}
+{"Symbol":"^BSESN","Name":"S&P BSE SENSEX","Price":"77,578.38","Change":"+239.38","Change%":"+0.31%","Volume":"0"}
+{"Symbol":"^JKSE","Name":"IDX COMPOSITE","Price":"7,195.71","Change":"-7,134.28","Change%":"-49.79%","Volume":"0"}
+{"Symbol":"^KLSE","Name":"FTSE Bursa Malaysia KLCI","Price":"1,602.34","Change":"-1.70","Change%":"-0.11%","Volume":"0"}
+{"Symbol":"^NZ50","Name":"S&P\/NZX 50 INDEX GROSS ( GROSS","Price":"12,748.49","Change":"-67.83","Change%":"-0.53%","Volume":"0"}
+{"Symbol":"^KS11","Name":"KOSPI Composite Index","Price":"2,473.13","Change":"+1.18","Change%":"+0.05%","Volume":"92,821"}
+{"Symbol":"^TWII","Name":"TSEC weighted index","Price":"22,848.80","Change":"+302.26","Change%":"+1.34%","Volume":"0"}
+{"Symbol":"^GSPTSE","Name":"S&P\/TSX Composite index","Price":"25,010.77","Change":"+33.83","Change%":"+0.14%","Volume":"226.204M"}
+{"Symbol":"^BVSP","Name":"IBOVESPA","Price":"128,197.25","Change":"+429.06","Change%":"+0.34%","Volume":"0"}
+{"Symbol":"^MXX","Name":"IPC MEXICO","Price":"50,222.40","Change":"-247.00","Change%":"-0.49%","Volume":"194.469M"}
+{"Symbol":"^IPSA","Name":"S&P IPSA","Price":"6,549.37","Change":"+6.98","Change%":"+0.11%","Volume":"1.35B"}
+{"Symbol":"^MERV","Name":"MERVAL","Price":"2,124,412.50","Change":"+57,497.25","Change%":"+2.78%","Volume":"0"}
+{"Symbol":"^TA125.TA","Name":"TA-125","Price":"2,284.69","Change":"+5.16","Change%":"+0.23%","Volume":"0"}
+{"Symbol":"^CASE30","Name":"EGX 30 Price Return Index","Price":"30,688.30","Change":"-176.00","Change%":"-0.57%","Volume":"80.665M"}
+{"Symbol":"^JN0U.JO","Name":"Top 40 USD Net TRI Index","Price":"4,547.12","Change":"+1.08","Change%":"+0.02%","Volume":"0"}
+{"Symbol":"DX-Y.NYB","Name":"US Dollar Index","Price":"106.15","Change":"-0.05","Change%":"-0.05%","Volume":"-"}
+{"Symbol":"^125904-USD-STRD","Name":"MSCI EUROPE","Price":"2,020.20","Change":"-5.94","Change%":"-0.29%","Volume":"-"}
+{"Symbol":"^XDB","Name":"British Pound Currency Index","Price":"126.82","Change":"+0.01","Change%":"+0.01%","Volume":"0"}
+{"Symbol":"^XDE","Name":"Euro Currency Index","Price":"105.96","Change":"-0.03","Change%":"-0.03%","Volume":"0"}
+{"Symbol":"000001.SS","Name":"SSE Composite Index","Price":"3,346.01","Change":"+22.16","Change%":"+0.67%","Volume":"2.373B"}
+{"Symbol":"^N225","Name":"Nikkei 225","Price":"38,487.10","Change":"+72.67","Change%":"+0.19%","Volume":"0"}
+{"Symbol":"^XDN","Name":"Japanese Yen Currency Index","Price":"64.66","Change":"+0.00","Change%":"+0.00%","Volume":"0"}
+{"Symbol":"^XDA","Name":"Australian Dollar Currency Index","Price":"65.29","Change":"+0.22","Change%":"+0.34%","Volume":"0"}
