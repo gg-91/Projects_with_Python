@@ -14,6 +14,9 @@ def extract(url):
     """This function sets custom user-agent to mimic browser request, then uses GET request to the URL
     & if the response is a success(200), returns parsed HTML using BeautifulSoap. Also logs error.
 
+    Args:
+        url: Website URL we want to parse
+        
     Returns:
         HTML: return parsed HTML
     """
@@ -75,7 +78,10 @@ def transform(parse):
 
 
 def main():
-    """This is the main function where we can input the url, call our functions and parse HTML data into a pandas dataframe."""
+    """This is the main function where we can input the url, 
+    call our functions and parse HTML data into a pandas dataframe."""
+
+    # Parsing trending ETFs on yahoo finance
     url = "https://finance.yahoo.com/markets/etfs/trending/"
     parse = extract(url)
     if parse:
